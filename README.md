@@ -1,5 +1,6 @@
-👋 Hello, I'm Lữ Phát Huy
-👀 My Home Town Is Kien Giang
-🌱 I Was Born In 2004
-💞️ My Love Is Real Madrid
-📫 I Study And Work At Fpoly Can Tho
+👋 Hallo, i'm Lữ Phát Huy
+👀 My home town is Kien Giang
+🌱 I was born in 2004
+💞️ Kim Tuyen
+📫 I studied at FPT Polytechnic
+💼 I live and work in Can Tho
